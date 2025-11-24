@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'accounts',
     'vegetables',
     'markets',
+    'rates',
+
 ]
 
 MIDDLEWARE = [
